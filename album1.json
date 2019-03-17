@@ -1,0 +1,157 @@
+[
+			{
+				"albumid": 1,
+				"albumad": "The Dark Side Of The Moon",
+				"sanatci": "Pink Floyd",
+				"cikistarihi":"1 Mart 1973",
+				"sarkilar": [
+						{
+							"sarkiid": 1,
+							"sarkiadi": "Speak To Me /Breath"
+						},
+						{
+							"sarkiid": 2,
+							"sarkiadi": "On the Run"
+						},
+						{
+							"sarkiid": 3,
+							"sarkiadi": "Time"
+						},
+						{
+							"sarkiid": 4,
+							"sarkiadi": "The Great Big In The Sky"
+						},
+						{
+							"sarkiid": 5,
+							"sarkiadi": "Money"
+						},
+						{
+							"sarkiid": 6,
+							"sarkiadi": "Use And Them"
+						},
+						{
+							"sarkiid": 7,
+							"sarkiadi": "Any Colour You Like"
+						},
+						{
+							"sarkiid": 8,
+							"sarkiadi": "Brian Damage"
+						},
+						{
+							"sarkiid": 9,
+							"sarkiadi": "Eclipse"
+						}
+					]
+				
+			},
+
+			{
+				"albumid": 2,
+				"albumad": "Physical Graffiti",
+				"sanatci": "Led Zeppelin",
+				"cikistarihi":"24 Subat 1975",
+				"sarkilar": [
+						{
+							"sarkiid": 1,
+							"sarkiadi": "Custard Pie"
+						},
+						{
+							"sarkiid": 2,
+							"sarkiadi": "The Rover"
+						},
+						{
+							"sarkiid": 3,
+							"sarkiadi": "In My Time Of Dying"
+						},
+						{
+							"sarkiid": 4,
+							"sarkiadi": "Houses Of The Holly"
+						},
+						{
+							"sarkiid": 5,
+							"sarkiadi": "Trampled Under Foot"
+						},
+						{
+							"sarkiid": 6,
+							"sarkiadi": "Kashmir"
+						},
+						{
+							"sarkiid": 7,
+							"sarkiadi": "In The Light"
+						},
+						{
+							"sarkiid": 8,
+							"sarkiadi": "Bron-Yr-Aur"
+						},
+						{
+							"sarkiid": 9,
+							"sarkiadi": "Down By The Seaside"
+						}
+					]
+				
+			},
+
+			{
+				"albumid": 3,
+				"albumad": "Innuendo",
+				"sanatci": "Quenn",
+				"cikistarihi":"30 Ocak 1991",
+				"sarkilar": [
+						{
+							"sarkiid": 1,
+							"sarkiadi": "Innuendo"
+						},
+						{
+							"sarkiid": 2,
+							"sarkiadi": "The Show Must Go On"
+						},
+						{
+							"sarkiid": 3,
+							"sarkiadi": "Headlong"
+						},
+						{
+							"sarkiid": 4,
+							"sarkiadi": "Bijou"
+						},
+						{
+							"sarkiid": 5,
+							"sarkiadi": "Ride The Wild Wind"
+						},
+						{
+							"sarkiid": 6,
+							"sarkiadi": "The Hitman"
+						},
+						{
+							"sarkiid": 7,
+							"sarkiadi": "Delilah"
+						}
+					]
+				
+			},
+			{
+				"albumid": 4,
+				"albumad": "Ice For Aureliano Buendia",
+				"sanatci": "Evgeny Grinko",
+				"cikistarihi":"22 Nisan 2014",
+				"sarkilar": [
+						{
+							"sarkiid": 1,
+							"sarkiadi": "Noir"
+						},
+						{
+							"sarkiid": 2,
+							"sarkiadi": "Valse"
+						},
+						{
+							"sarkiid": 3,
+							"sarkiadi": "Serenade"
+						},
+						{
+							"sarkiid": 4,
+							"sarkiadi": "Outro"
+						}
+					]
+				
+			}
+		
+]
